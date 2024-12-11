@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onezone30
 - 👀 I’m interested in becoming a full-stack Web Developer
-- 🌱 I’m currently learning Javascript
+- 🌱 PROGRAMMING LANGUAGE: HTML, CSS, JAVASCRIPT, REACT, PHP
 - 💞️ I’m looking to collaborate on many projects so you and i could learn a lot of things
 - 📫 How to reach me ...
 
