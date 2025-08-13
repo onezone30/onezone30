@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onezone30
 - 👀 I’m interested in becoming a full-stack Web Developer
-- 🌱 PROGRAMMING LANGUAGE: JAVASCRIPT, REACT, PHP
+- 🌱 PROGRAMMING LANGUAGE / FRAMEWORK: JAVASCRIPT, REACT, PHP, LARAVEL
 - 💞️ I’m looking to collaborate on many projects so you and i could learn a lot of things
 - 📫 How to reach me ...
 
