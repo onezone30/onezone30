@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Cesar Pinero Jr</h1>
-<h3 align="center">A passionate full-stack web developer from Philippines</h3>
+<h3 align="center">Current IT Intern</h3>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/onezone30) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__cesar.p_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cpinero522003@gmail.com) 
